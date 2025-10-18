@@ -1,0 +1,16 @@
+{\n    "@timestamp": "2025-10-17T11:15:57.840Z",\n    "level": "WARN",\n    "message": "Null pointer exception occurred at 11:15:56"\n
+},\n  {\n    "@timestamp": "2025-10-17T11:15:56.837Z",\n    "level": "INFO",\n    "message": "Data fetched from database at 11:15:55"\n
+},\n  {\n    "@timestamp": "2025-10-17T11:15:55.835Z",\n    "level": "WARN",\n    "message": "Data fetched from database at 11:15:55"\n
+},\n  {\n    "@timestamp": "2025-10-17T11:15:54.833Z",\n    "level": "INFO",\n    "message": "User registration completed at 11:15:54"\n
+},\n  {\n    "@timestamp": "2025-10-17T11:15:54.832Z",\n    "level": "WARN",\n    "message": "Data fetched from database at 11:15:53"\n
+},\n  {\n    "@timestamp": "2025-10-17T11:15:51.827Z",\n    "level": "WARN",\n    "message": "Order failed due to payment error at 11:15:51"\n
+},\n  {\n    "@timestamp": "2025-10-17T11:15:50.823Z",\n    "level": "WARN",\n    "message": "External API call failed at 11:15:50"\n
+},\n  {\n    "@timestamp": "2025-10-17T11:15:49.820Z",\n    "level": "WARN",\n    "message": "External API call failed at 11:15:48"\n
+},\n  {\n    "@timestamp": "2025-10-17T11:15:48.817Z",\n    "level": "WARN",\n    "message": "User registration failed at 11:15:48"\n
+},\n  {\n    "@timestamp": "2025-10-17T11:15:48.816Z",\n    "level": "ERROR",\n    "message": "User registration completed at 11:15:47"\n
+}\n
+]\n```\n\nHere are the last 10 log messages, formatted for better readability, including the timestamp, log level, and message.' additional_kwargs={} response_metadata={'prompt_feedback': {'block_reason': 0, 'safety_ratings': []
+}, 'finish_reason': 'STOP', 'model_name': 'gemini-2.0-flash-exp', 'safety_ratings': []
+} id='run--b1731d6b-cb33-434e-8bde-d7c5a47f4574-0' usage_metadata={'input_tokens': 18255, 'output_tokens': 693, 'total_tokens': 18948, 'input_token_details': {'cache_read': 0
+}
+}

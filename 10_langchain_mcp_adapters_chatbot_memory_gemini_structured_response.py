@@ -24,7 +24,7 @@ async def run_agent():
     client = MultiServerMCPClient(
         {
             "github": {
-                "command": "npx",
+                "command": "npx", # docker, npx
                 "args": [
                     "-y",
                     "@modelcontextprotocol/server-github"
@@ -32,7 +32,7 @@ async def run_agent():
                 "env": {
                     "GITHUB_PERSONAL_ACCESS_TOKEN": GITHUB_TOKEN
                 },
-                "transport": "stdio"
+                "transport": "stdio" # stream-http, server-sent-events, stdio
             },
 
             "filesystem": {
